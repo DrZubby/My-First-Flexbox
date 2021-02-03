@@ -1,0 +1,115 @@
+html {
+	font-family: "Trebuchet MS", Helvetica, San-serif;
+}
+
+h1 {
+	color: Blue;
+	font-weight: bold;
+	text-decoration: overline;
+	margin-left: 2em;
+	margin-bottom: 4px;
+}
+
+h3 {
+	color: green;
+	font-weight: bold;
+	margin-top: 3px;
+	padding-left: 2em;
+}
+
+h2 {
+	color: purple;
+	text-align: center;
+	margin-top: 2px;
+	margin-bottom: 3px;
+}
+
+header {
+	background-color: rgb(189, 220, 213);
+	margin-bottom: 0px;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+}
+
+#container {
+	display: flex;
+}
+
+.main {
+	margin-top: 0px;
+	display: flex;
+	flex: 1 200px;
+	background-color: rgb(28, 211, 197);
+}
+
+article {
+	background-color: rgb(200, 216, 198);
+	padding: 10px;
+	margin: 5px;
+	line-height: 1.5;
+	text-align: justify;
+}
+
+
+.main div:nth-of-type(4) {
+	flex: 4 200px;
+}
+
+
+
+img {
+	width: 95%;
+	border: 2px solid green;
+	flex-flow: column wrap;
+	margin: 3px 4px;
+}
+
+nav {
+	background-color: rgb(218, 159, 219);
+}
+
+ul {
+	list-style-type: none;
+	margin-top: 4px;
+	margin-left: 1px;
+	padding: 10px;
+}
+
+li {
+	
+	padding: 3px;
+    display: inline-block;
+	background-color: rgb(211, 199, 207);
+}
+
+a, li:link {
+	text-decoration: none;
+	color: rgb(17, 147, 24);
+}
+
+li:hover {
+	border: 1px solid orange;
+	background-color: rgb(112, 211, 200);
+}
+
+#footer {
+	display: flex;
+	flex-flow: column wrap;
+	margin-top: 5px;
+	line-height: 2;
+	background-color: rgb(190, 212, 98);
+}
+
+#sidebar {
+	background-color: rgb(212, 111, 199);
+}
+
+#button{ 
+	display: flex;
+	justify-content: flex-start;
+	margin-top: 10px;
+}
+
+button {
+	padding: 4px;
+}

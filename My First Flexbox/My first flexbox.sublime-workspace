@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"paddi",
+				"padding-right\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"so",
+				"space-around"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"flex",
+				"flex-flow\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"p",
+				"picture\tTag"
+			],
+			[
+				"sp",
+				"space-around\tjustify-content"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"r",
+				"rgb()\tbackground-color"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"row",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"tet",
+				"text-decoration\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"background-",
+				"background-attachment\tproperty"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<meta charset=\"utf-8\">\n\t\t<title>Trial Flex</title>\n\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"Trial Flex.css\">\n\t</head>\n<div id=\"container\"></div>\n\t<header>\n\t\t<h1>Trial Flex Page</h1>\n\t    <h3>Everything I have learnt about Flexbox</h3>\n\t <nav>\n\t\t<ul>\n\t\t\t<li><a href=\"#\">Home</a></li>\n\t\t\t<li><a href=\"#\">About</a></li>\n\t\t\t<li><a href=\"#\">Contact</a></li>\n\t\t\t<li><a href=\"#\">Products</a></li>\n\t\t\t<li><a href=\"#\">Services</a></li>\n\t\t</ul>\n\t </nav>\n\t</header>\n\t\n\t<div class=\"main\">\n\t\t<article>\n\t\t<h2>First Header</h2>\n\t\t<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n\t\ttempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n\t\tquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n\t\tconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n\t\tcillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n\t\tproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n\t\t</article>\n\n\t\t<article>\n\t\t<h2>Second Header</h2>\n\t\t<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n\t\ttempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n\t\tquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n\t\tconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n\t\tcillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n\t\tproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n\t\t</article>\n\n\t\t<article>\n\t\t<h2>Third Header</h2>\n\t\t<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n\t\ttempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n\t\tquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n\t\tconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n\t\tcillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n\t\tproident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n\t\t</article>\n\n\t\t<div id=\"sidebar\">\n\t\t<h2>Gallery</h2>\n\t\t<p><img src=\"Antlion.jpg\" alt=\"Picture of an Antlion\">\n\t\tA hungry antlion about to have a good meal.</p>\n\t\t<p><img src=\"zebra.jpg\" alt=\"Picture of a zebra\"> A Curious Zebra staring at you suspiciously.</p>\n\t\t<p><img src=\"mando.jpg\" alt=\"Picture of mando\"> A mandalorian strolling in an intergalactic dessert.</p>\n\n\t</div>\n\n\t</div>\n\n\n\t<div id=\"footer\">\n\t\t<div id=\"button\">\n\t    \t<button><a href=\"#\">Donate</a></button>\n\t    \t<button><a href=\"#\">Share</a></button>\n\t    \t<button><a href=\"#\">Contribute</a></button>\n\t    \t<button><a href=\"#\">Enjoy</a></button>\n\t    </div>\n\t\t<div id=\"copy\">\n\t\t\t<strong>&copy With love from the Zeemahn.</strong> \n\t\t    <em>All rights reserved.</em>\n\t\t    <hr>\n\t    </div> \n\n\t</div>\n</html>\n",
+			"file": "Trial Flex.html",
+			"file_size": 2908,
+			"file_write_time": 132568502376058174,
+			"settings":
+			{
+				"buffer_size": 2827,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<!DOCTYPE html>"
+			}
+		},
+		{
+			"file": "Trial Flex.css",
+			"settings":
+			{
+				"buffer_size": 1453,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/1/Desktop/WEB DEV"
+	],
+	"file_history":
+	[
+		"/C/Users/1/Desktop/WEB DEV/inside flex.html",
+		"/C/Users/1/Desktop/WEB DEV/button test.html",
+		"/C/Users/1/Desktop/WEB DEV/buttons.html",
+		"/C/Users/1/Desktop/WEB DEV/flexbox.html",
+		"/C/Users/1/Desktop/WEB DEV/flexbox.css",
+		"/C/Users/1/Desktop/WEB DEV/index.html",
+		"/C/Users/1/Desktop/WEB DEV/doc.css",
+		"/C/Users/1/Desktop/WEB DEV/index.css",
+		"/C/Users/1/AppData/Roaming/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/C/Users/1/Desktop/MDN Tutorial/css1.css",
+		"/C/Users/1/Desktop/MDN Tutorial/mdn1.html",
+		"/C/Users/1/Desktop/WEB DEV/sublime html.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Trial Flex.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!DOCTYPE html>",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 36.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "Trial Flex.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								798,
+								798
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 649.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 31.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "My first flexbox.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"mdn1.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
